@@ -30,7 +30,7 @@ Timelapse: https://lapse.hackclub.com/timelapse/WKw5i15kXGla
 ## October 2nd, 2026
 
 Hi people of hack club,
-<br>
+
 Today I spent just over an hour designing the wiring schematic for my project.
 I will sadly not be using a PCB for this project so the schematic is purely there to be an easy way to visually see the wiring rather than another format.
 

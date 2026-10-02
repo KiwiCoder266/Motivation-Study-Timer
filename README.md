@@ -14,5 +14,6 @@ I need to work on my writing speed and time taken for different questions on my 
 - 3D Printed Chassis
 
 ---
-
+#### Notes
 I am very sorry if the schematic isn't the best as I am very new to KiCad and hardware design.
+I hope this is alright :)

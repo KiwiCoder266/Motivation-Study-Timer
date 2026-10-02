@@ -6,7 +6,8 @@ I need to work on my writing speed and time taken for different questions on my 
 - Has the option to be hooked up to the API (also included) that can run on your server.
 - It will motivate you through out the time :)
 
-## Parts used:
+## Assembly Guide
+### Parts used:
 - ESP32 30-Pin Dev Board
 - EC11 Rotary encoder with push button
 - 0.91in OLED I2C display

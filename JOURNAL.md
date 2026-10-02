@@ -33,11 +33,11 @@ Hi people of hack club,
 <br>
 Today I spent just over an hour designing the wiring schematic for my project.
 I will sadly not be using a PCB for this project so the schematic is purely there to be an easy way to visually see the wiring rather than another format.
-<br>
+
 My next step of the project is to get onto the CAD design for the casing in SolidWorks and that will probably be done within a day or two.
-<br>
+
 Below is a picture of the schematic and I am getting excited to see this finished project as it will be the first hardware project I have properly made. The only thing I have made before this was a little control panel for a game me and my mates play called RideSims and all it was, was an arduino with some cheap buttons in a poorly designed 3D Printed casing.
-<br>
+
 Schematic Below:
 ![](https://fabricate.hackclub-assets.com/f81bf069d80fb55d1a3ba3a9a6f4e2ae6a93cb9b83359c4b6109e110c766e17f/image.png)
 

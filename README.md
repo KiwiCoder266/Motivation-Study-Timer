@@ -10,7 +10,7 @@ I need to work on my writing speed and time taken for different questions on my 
 ### Parts used:
 - ESP32 30-Pin Dev Board
 - EC11 Rotary encoder with push button
-- 0.91in OLED I2C display
+- 2.42in OLED I2C display
 - 3D Printed Chassis
 
 ## Notes

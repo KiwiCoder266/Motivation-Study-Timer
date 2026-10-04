@@ -7,6 +7,7 @@ I need to work on my writing speed and time taken for different questions on my 
 - It will motivate you through out the time :)
 
 ## Assembly Guide
+**I am so sorry this is not finished yet but, as is with the coding, it is difficult to make an assembly guide without the parts.**
 ### Parts used:
 - ESP32 30-Pin Dev Board
 - EC11 Rotary encoder with push button
